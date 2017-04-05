@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <?php include("includes/head.php"); ?>
-  <body>
+  <body style="  background: url('images/Laura-Ashley-Home-Areca-Palm-Tree-in-Pot.jpg');">
     <?php include("includes/header.php"); ?>
     <div class="container">
       <div class="">
