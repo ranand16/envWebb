@@ -5,13 +5,14 @@
   font-size: 100%;
   vertical-align: top;
 }
+
 body {
+  background: url('../images/Laura-Ashley-Home-Areca-Palm-Tree-in-Pot.jpg');
 	letter-spacing: 0.1em;
-  font-size: 13px;
   background: #fff;
   color: #121212;
   line-height: 1.5em;
-  font-weight: 400;
+  font-weight: 500;
   font-family: 'Open Sans', sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -22,13 +23,11 @@ body {
 	 font-family: myFirstFont;
 	 src: url(sansation_light.woff);
 }
-.j1{
-	box-shadow: 10px 10px 25px #00000f;
-}
 .slider {
 	background-color: #f0f0f0;
 	position: relative;
-	min-height: 80vh;
+	height: 83.5vh;
+  overflow: hidden;
 }
 .slider .item {
 	position: absolute;
@@ -62,17 +61,21 @@ body {
 }
 .slider .item .desc {
 	position: absolute;
-	top: 5rem;
-	left: 8rem;
-	right: 8rem;
+	top: 16vh;
+	left: 12vh;
+	right: 12vh;
 	text-align: center;
 }
-.slider .item .desc h1 {
+/*.slider .item .desc h1 {
 	color: #fff;
-	font-size: 5rem;
-}
+	font-size: 8rem;
+}*/
 .slider .item .desc p {
 	color: #fff;
+  font-style: italic;
+  text-align: justify;
+  font-size: 4vh;
+
 }
 .slider .item:first-child .desc h1 {
 	animation: slide1h1 6s ease infinite;
@@ -98,27 +101,102 @@ body {
 pre {
     tab-size: 8;
 }
+.jumbotron p{
+  font-size: 1.5rem;
+}
 
 @media screen and (max-width: 768px) {
-    .side-collapse-container{
-        width:100%;
-        position:relative;
-        left:0;
-        transition:left .4s;
-    }
-    .side-collapse-container.out{
-        left:200px;
-    }
-    .side-collapse {
-        top:50px;
-        bottom:0;
-        left:0;
-        width:200px;
-        position:fixed;
-        overflow:hidden;
-        transition:width .4s;
-    }
-    .side-collapse.in {
-        width:0;
-    }
+
+  .slider {
+  	background-color: #f0f0f0;
+  	position: relative;
+  	height: 52vh;
+    overflow: hidden;
+  }
+  /*.slider .item .desc h1 {
+  	color: #fff;
+  	font-size: 8rem;
+  }*/
+  .slider .item .desc p {
+  	color: #fff;
+    font-style: italic;
+    text-align: justify;
+    font-size: 3vh;
+  }
+  .slider .item .desc {
+  	position: absolute;
+  	top: 12vh;
+  	left: 12vh;
+  	right: 12vh;
+  	text-align: center;
+  }
+
+  .side-collapse-container{
+      width:100%;
+      position:relative;
+      left:0;
+      transition:left .4s;
+  }
+  .side-collapse-container.out{
+      left:200px;
+  }
+  .side-collapse {
+      top:50px;
+      bottom:0;
+      left:0;
+      width:200px;
+      position:fixed;
+      overflow:hidden;
+      transition:width .4s;
+  }
+  .side-collapse.in {
+      width:0;
+  }
+}
+.ioverlay{
+  /*display:none;*/
+  position:absolute;
+  width:300px;
+  height:300px;
+  background: rgba(0,0,0,0.2);
+  top:0px;
+}
+.i{
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+
+}
+.container .row .i img{
+    width: 100%;
+    height: auto;
+}
+
+
+@media screen and (max-width: 500px) {
+  .slider {
+  	background-color: #f0f0f0;
+  	position: relative;
+  	height: 35vh;
+    overflow: hidden;
+  }
+  /*.slider .item .desc h1 {
+  	color: #fff;
+  	font-size: 8rem;
+  }*/
+  .slider .item .desc p {
+  	color: #fff;
+    font-style: italic;
+    text-align: justify;
+    font-size: 1.8vh;
+  }
+  .slider .item .desc {
+  	position: absolute;
+  	top: 6vh;
+  	left: 8vh;
+  	right: 8vh;
+  	text-align: center;
+  }
+
 }

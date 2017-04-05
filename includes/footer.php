@@ -33,7 +33,8 @@
 	<div class="footer-right">
 		<p class="footer-company-about">
 			<span>About the company</span>
-			Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+			Plot no.- 105/2, Sai baba adarsh mahavidyalaya road, Nehru nagar, Ambikapur,
+			Distt.- Surguja chhattisgarh, PIN- 497001,
 		</p>
 		<div class="footer-icons">
 			<a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
@@ -44,7 +45,6 @@
 	</div>
 </footer>
 <script type="text/javascript">
-
 $(document).ready(function() {
             var sideslider = $('[data-toggle=collapse-side]');
             var sel = sideslider.attr('data-target');
