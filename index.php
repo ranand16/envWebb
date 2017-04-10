@@ -23,26 +23,36 @@
         <div class="container">
           <h1>ECO CONCEPTS</h1>
           <p style="font-size:1.5rem;text-align:justify;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <p>Areca leaves are non-odorous and non- toxic leaves used for the production of bio-degradable plates , cups and various other items . Its a raw material obtained from areca plams .
+            India has various arica palm trees which shed leaves . Each tress sheds around 10-15 leaves which is further collected and transported to manufacture products .
+            The waste materials from areca leaf products can be composed to form an ogranic product which can further be used for earth worm pits . Thereby promoting organic farming .
+            </p>
+
+            <h3>Areca leaf products :</h3>
+            <ul>
+              <li>Plates and cups</li>
+              <li>Pen stands , official files and various other stationary items such as paperboards, cardboards.</li>
+            </ul>
+            <h3>Advantages</h3>
+            Areca leaf plates are :
+            <ul>
+              <li>Healthy and hygienic</li>
+              <li>The best alternative to plastic plates used  at parties and public gatherings</li>
+              <li>Eco-friendly and biodegradable/waste utilisation</li>
+              <li>Further it brings out an unique look when to compared to plates often used .</li>
+            </ul>
+
+
+
+            <h3>Beneficiaries :</h3>
+
+            <ul>
+              <li>Areca leaf farmers</li>
+              <li>Transporters</li>
+              <li>Leaf collectors</li>
+              <li>Most importantly consumers</li>
+            </ul>
+
           </p>
         </div>
       </div>

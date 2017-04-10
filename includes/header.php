@@ -9,7 +9,6 @@
         <ul class="nav navbar-nav navbar-right">
          <li><a href="index.php"><font color="white">Home</font></a></li>
          <li><a href="Process.php"><font color="white">Process</font></a></li>
-         <li><a href="Packing.php"><font color="white">Packing</font></a></li>
          <li><a href="Products.php"><font color="white">Products</font></a></li>
          <li><a href="About.php"><font color="white">About</font></a></li>
          <li><a href="contact.php"><font color="white">Contact</font></a></li>

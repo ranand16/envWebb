@@ -1,10 +1,3 @@
-* {
-  vertical-align: top;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
 body {
   background: url('../images/Laura-Ashley-Home-Areca-Palm-Tree-in-Pot.jpg');
 	letter-spacing: 0.1em;
@@ -15,11 +8,10 @@ body {
   font-family: 'Open Sans', sans-serif;
   position: relative;
 }
-
 .slider {
 	background-color: #f0f0f0;
 	position: relative;
-	height: 83.5vh;
+	height: 80vh;
   overflow: hidden;
 }
 .slider .item {
@@ -33,10 +25,10 @@ body {
 	display: block;
 }
 .slider .item:first-child {
-	animation: slide1 6s ease infinite;
+	animation: slide1 12s ease infinite;
 }
 .slider .item:last-child {
-	animation: slide2 6s ease infinite;
+	animation: slide2 12s ease infinite;
 }
 @keyframes slide1 {
 	0% { opacity: 1; }
@@ -53,6 +45,7 @@ body {
 	100% { opacity: 0; }
 }
 .slider .item .desc {
+
 	position: absolute;
 	top: 16vh;
 	left: 12vh;

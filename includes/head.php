@@ -16,5 +16,7 @@
     <!-- [if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif] -->
     <!-- <script src="http://getbootstrap.com/assets/js/ie-emulation-modes-warning.js"></script> -->
     <script src="css/jquery-3.2.0.min.js"></script>
+    <script src="css/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+
 </head>
 <body style="  background: url('images/test11.jpg');">
